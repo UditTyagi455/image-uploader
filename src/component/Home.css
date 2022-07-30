@@ -1,0 +1,18 @@
+.background-img {
+  position: relative;
+}
+.background-img img{
+    background-size: contain;
+    height: 90vh;
+    width: 100%;
+    
+}
+.headingone {
+    position: absolute;
+    top: 45%;
+    left: 18%;
+    color: #fff;
+    font-weight: 900;
+    font-size: 6rem;
+    text-transform: uppercase;
+}

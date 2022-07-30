@@ -1,0 +1,31 @@
+.main_form_cls {
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    margin-top: 3rem;
+    justify-content: center;
+}
+.login_data {
+    border: 1px solid red;
+    background-color: #332;
+    padding: 4rem 10rem;
+    border-radius: 10px;
+    box-shadow: 5px 10px;
+}
+.login_data label {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: white;
+    text-transform: capitalize;
+}
+.login_data input {
+    border-radius: 8px;
+    padding: 10px 18px;
+    font-weight: 400;
+}
+.login_data button{
+     padding:0.6rem 6rem ;
+     margin: 8px 0px;
+}

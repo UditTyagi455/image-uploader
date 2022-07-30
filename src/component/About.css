@@ -1,0 +1,14 @@
+.main_class {
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    margin: 2rem 2rem;
+}
+.heading2 {
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 1rem 0px;
+}
+.main {
+    display: flex;
+}

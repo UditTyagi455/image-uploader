@@ -1,0 +1,14 @@
+.data_id {
+    padding: 0px 8px;
+    font-size: 20px;
+    font-weight: 500;
+    color: red;
+}
+.api_data_body {
+    margin: 1rem 1rem;
+    font-size: 20px;
+    font-weight: 500;
+}
+.all_api_data {
+    margin: 3rem 0px;
+}
